@@ -1,0 +1,6 @@
+title: BIC
+x-stoplight:
+  id: 0gk3abv7ubjd4
+type: string
+description: 'BIC (Beneficiary Bank Identifier Code), e.g. FRGAILP1'
+example: FRGAILP1

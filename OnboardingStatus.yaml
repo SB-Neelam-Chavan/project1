@@ -1,0 +1,11 @@
+title: OnboardingStatus
+x-stoplight:
+  id: 8j6ligjqw8spn
+type: string
+readOnly: true
+description: Onboarding status
+enum:
+  - INITIATED
+  - COMPLETION_PENDING
+  - READY_TO_SUBMIT
+  - SUBMITTED

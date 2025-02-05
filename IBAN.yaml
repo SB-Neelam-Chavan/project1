@@ -1,0 +1,6 @@
+title: IBAN
+x-stoplight:
+  id: pi28ph7jqh2f5
+type: string
+description: 'IBAN (International Bank Account Number), e.g. FR791680810000000538'
+example: FR791680810000000538
